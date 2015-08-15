@@ -2,6 +2,10 @@
 
 ###一、用法
 
+![](npm.png)
+
+    npm install https-request
+
 ![](doc.png)
 
     

@@ -1,4 +1,4 @@
-var httpsRequest = require('./request');
+var httpsRequest = require('https-request');
 
 var options = {
     hostname: 'www.baidu.com',

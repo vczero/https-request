@@ -1,0 +1,24 @@
+{
+  "name": "https-request",
+  "version": "1.0.0",
+  "description": "node https request",
+  "main": "index.js",
+  "scripts": {
+    "test": "example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vczero/https-request.git"
+  },
+  "keywords": [
+    "node",
+    "https",
+    "request"
+  ],
+  "author": "vczero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vczero/https-request/issues"
+  },
+  "homepage": "https://github.com/vczero/https-request#readme"
+}
